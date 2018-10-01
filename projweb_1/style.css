@@ -1,6 +1,27 @@
-body 
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+html
 {
-	background-color: #1A2C5B;
+	background-image:url(https://www.watg.com/wp-content/uploads/2016/05/Architecture-Main-Tile-1920x999.jpg);
+}
+
+body
+{
+	background-color:white;
+	width:900px;
+	font-family:Oswald;
+	margin: 0;
+	margin: 0 auto;
+	padding: 2rem;
+}
+
+.fancy-header
+{
+	background-color: grey;
+	font-family:Oswald;
+	margin: 0;
+	margin: 0 auto;
+	padding: 2rem;
 }
 
 h1 

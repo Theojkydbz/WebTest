@@ -4,10 +4,14 @@ body
 	background-color: yellow;
 }
 
-.liste a 
+.liste a
 {
 	color: rgb(255, 123, 123);
 	border: 5px red dotted
+}
+.liste li:hover 
+{
+	background-color: blue
 }
 body ul li
 {
@@ -16,6 +20,10 @@ body ul li
 
 body > p
 {
-	color:red
+	color: red
 }
 
+section:hover 
+{
+	background-color: purple
+}
