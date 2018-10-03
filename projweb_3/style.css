@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+html
+{
+background-color: black;
+}
+
+.boite
+{
+background-color: white;
+width: 100px;
+height:100px;
+border-radius: 10%;
+margin: 0 auto;
+margin: 10px;
+display: inline-block;
+padding: 2rem;
+}
+
+.el1 {
+background-color: rgb(30,30,30);
+width:2.54cm;
+height:2.54cm;
+}
+.el2 {
+background-color: rgb(75,75,75);
+}
+.el3 {
+background-color: rgb(100,100,100);
+}
+.el4 {
+background-color: rgb(150,150,150);
+}
+.el5 {
+background-color: rgb(200,200,200);
+}
