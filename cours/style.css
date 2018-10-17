@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+body
+{
+	background-color: rgb(202, 216, 188);
+}
+
+h1{
+	background-color: rgba(200,200,200,50);
+border: 3px red solid;
+padding: 1rem;
+min-width: 200px;
+max-width: 250px;
+}

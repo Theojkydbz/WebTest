@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+html
+{
+background-color:darkblue;
+}
+
+h1{
+background-color:grey;
+font-family: Oswald;
+margin: 5rem;
+transition:all .2s;
+
+}
+h1:hover{
+background-color:grey;
+font-family: Oswald;
+font-size:6rem;
+margin: auto auto;
+transform: scale(2);
+}
+
+.boite
+{
+background-color: white;
+width: 100px;
+height:100px;
+display: inline-block;
+padding: 5rem;
+font-family: Oswald;
+transition:all .2s;
+border-radius:10%;
+}
+
+.boite:hover{
+transform: rotate(1turn) scale(0.5);
+background-color: Purple;
+
+}
+
+.el1 {
+background-color: rgba(30,30,30,0.5);
+width:2.54cm;
+height:2.54cm;
+}
+.el2 {
+background-color: rgba(75,75,75,0.5);
+}
+.el3 {
+background-color: rgba(100,100,100,0.5);
+}
+.el4 {
+background-color: rgba(150,150,150,0.5);
+}
+.el5 {
+background-color: rgba(200,200,200,0.5);
+margin:0 auto;
+}
