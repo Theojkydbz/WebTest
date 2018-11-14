@@ -1,0 +1,17 @@
+/* Ma version mobile */
+.bloc {
+  background-color: orange;
+  padding: 1rem;
+  border-radius: 15px;
+}
+
+
+/* Ma version gros téléphone */
+@media (min-width: 500px) {
+  .bloc {
+    background-color: red;
+    padding: 2rem;
+    border: 2px orange solid
+  }
+}
+
